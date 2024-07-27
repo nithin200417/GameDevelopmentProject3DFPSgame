@@ -1,4 +1,4 @@
-This game is a FPS shooter game here i have implementedd several features :
+**This game is a FPS shooter game here i have implementedd several features :**
     1.End Goal being able to complete all the levels here i have added two levels
     2.The Player has gun pickup at the start of every level and added many pickup items for the player to utilize.
     3.The mag pickup increases the ammo and health can pickup will increase the health and extra life pickup will add another life.
